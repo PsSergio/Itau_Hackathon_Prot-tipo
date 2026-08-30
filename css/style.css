@@ -67,7 +67,7 @@ img {
   :root:not([data-theme="light"]) {
     --page-bg: #1B1712;
     --page-bg-soft: #221C16;
-    --chrome-ink: #241C16;
+    --chrome-ink: #F3E9DE;
     --chrome-muted: #B2A08D;
     --chrome-border: #3A2F25;
     --panel-bg: #252019;
@@ -79,7 +79,7 @@ img {
 :root[data-theme="dark"] {
   --page-bg: #1B1712;
   --page-bg-soft: #221C16;
-  --chrome-ink: #241C16;
+  --chrome-ink: #F3E9DE;
   --chrome-muted: #B2A08D;
   --chrome-border: #3A2F25;
   --panel-bg: #252019;
